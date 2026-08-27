@@ -16,7 +16,7 @@ Or open the full catalog and select **Prompt Engineering for Beginners: Masterin
 
 ## About
 
-The market shows strong demand for prompt engineering education but lacks accessible entry-level books. While prompt engineering has become essential for professionals across industries using AI tools, existing resources are fragmented—mostly technical documentation, developer-focused guides, or premium courses. The absence of beginner-friendly books despite widespread ChatGPT/Claude adoption (100M+ users) represents a significant publishing opportunity. Early movers can establish authority in this emerging category before it becomes crowded, similar to early Python or web development books that captured nascent markets.
+The market shows strong demand for prompt engineering education but lacks accessible entry-level books. While prompt engineering has become essential for professionals across industries using AI tools, existing resources are fragmentedG��mostly technical documentation, developer-focused guides, or premium courses. The absence of beginner-friendly books despite widespread ChatGPT/Claude adoption (100M+ users) represents a significant publishing opportunity. Early movers can establish authority in this emerging category before it becomes crowded, similar to early Python or web development books that captured nascent markets.
 
 ## Payment & delivery
 
